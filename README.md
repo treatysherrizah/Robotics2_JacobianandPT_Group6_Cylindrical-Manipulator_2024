@@ -14,3 +14,8 @@
 # III. JACOBIAN MATRIX OF CYLINDRICAL MANIPULATOR 
 # IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
 # V. PATH AND TRAJECTORY PLANNING CYLINDRICAL MANIPULATOR 
+# VI. REFERENCES
+### 1. Gasparetto, A., Boscariol, P., Lanzutti, A., & Vidoni, R. (2015). Path Planning and Trajectory Planning Algorithms: A General Overview. In Mechanisms and machine science (pp. 3–27). https://doi.org/10.1007/978-3-319-14705-5_1
+### 2. Ten popular industrial robot Applications | Jabil. (n.d.). Jabil.com. https://www.jabil.com/blog/ten-popular-industrial-robot-applications.html
+### 3. How to use Jacobian Method for path following? (n.d.). Robotics Stack Exchange. https://robotics.stackexchange.com/questions/22190/how-to-use-jacobian-method-for-path-following
+### 4. Admin. (2019, December 9). Jacobian Matrix and Determinant (Definition and Formula). BYJUS. https://byjus.com/maths/jacobian/#:~:text=Jacobian%20matrix%20is%20a%20matrix,in%20the%20transformation%20of%20coordinates.
