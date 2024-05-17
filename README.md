@@ -12,7 +12,7 @@
 
 
 # III. JACOBIAN MATRIX OF CYLINDRICAL MANIPULATOR 
-### The Jacobian matrix is a mathematical tool used in various fields, but in robotics, it plays a crucial role in understanding the relationship between the  joint movements and the resulting movement of the end-effector. The Joint Movements represent the rotational speed (for revolute joints) or extension/contraction rate (for prismatic joints) of each joint in the robot's arm. The End-Effector is the part of the robot that interacts with the environment, like the gripper on a robotic arm. The End-Effector Movement describes the linear and angular velocities (or positions) of the end-effector, specifying how fast and in what direction it's moving (or located).
+### The Jacobian matrix is a mathematical tool used in various fields, but in robotics, it plays a crucial role in understanding the relationship between the  joint movements and the resulting movement of the end-effector. The Joint Movements represent the rotational speed (for revolute joints) or extension/contraction rate (for prismatic joints) of each joint in the robot's arm. The End-Effector is the part of the robot that interacts with the environment, like the gripper on a robotic arm. The End-Effector Movement describes the linear and angular velocities (or positions) of the end-effector, specifying how fast and in what direction it's moving (or located). The concept of the matrix was the first introduced by the mathematician Carl Gustav Jacob Jacobi in the 19th century
 
 ## <p align="center">The Jacobian Matrix Solution of Cylindrical Manipulator
 </p>
@@ -21,6 +21,13 @@
 <p align="center">
   <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/36e50eaf-0e4f-4411-aff1-62b5eb374bd0" width="400"/)
 </p>
+
+<p align="center">
+ <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/2ff0132f-f014-4cb6-bea1-2f7dc5ee55bd" width="500"/) <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/0cd95c8f-9b52-4511-bcf9-76198418c038" width="500"/)
+</p> 
+
+
+
 
 
 # IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
