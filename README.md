@@ -17,7 +17,10 @@
 ## <p align="center">The Jacobian Matrix Solution of Cylindrical Manipulator
 </p>
 
-### Illustration of Cylindrical Manipulator
+### Illustration of Cylindrical Manipulator:
+<p align="center">![image](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/b79dc030-e30b-464f-937b-f2bb13d45060)
+</p>
+
 
 # IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
 # V. PATH AND TRAJECTORY PLANNING CYLINDRICAL MANIPULATOR 
