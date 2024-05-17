@@ -19,7 +19,7 @@
 
 ### Illustration of Cylindrical Manipulator:
 <p align="center">
-  <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/36e50eaf-0e4f-4411-aff1-62b5eb374bd0" /)
+  <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/36e50eaf-0e4f-4411-aff1-62b5eb374bd0" width="200"/)
 </p>
 
 
