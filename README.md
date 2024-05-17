@@ -18,8 +18,9 @@
 </p>
 
 ### Illustration of Cylindrical Manipulator:
-<p align="center">![image](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/b79dc030-e30b-464f-937b-f2bb13d45060)
+<p align="center">![Capture](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/ca956d66-46c0-4575-9bd1-7e204bd4b68d)
 </p>
+
 
 
 # IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
