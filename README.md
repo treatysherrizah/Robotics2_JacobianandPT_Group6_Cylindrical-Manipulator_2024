@@ -24,7 +24,10 @@
 
 <p align="center">
  <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/2ff0132f-f014-4cb6-bea1-2f7dc5ee55bd" width="500"/) 
-  <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/0cd95c8f-9b52-4511-bcf9-76198418c038" width="500"/)
+</p> 
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/0cd95c8f-9b52-4511-bcf9-76198418c038" width="500"/)
 </p> 
 
 
