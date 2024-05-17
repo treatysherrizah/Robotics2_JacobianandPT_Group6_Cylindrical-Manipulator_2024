@@ -14,8 +14,7 @@
 # III. JACOBIAN MATRIX OF CYLINDRICAL MANIPULATOR 
 ### The Jacobian matrix is a mathematical tool used in various fields, but in robotics, it plays a crucial role in understanding the relationship between the  joint movements and the resulting movement of the end-effector. The Joint Movements represent the rotational speed (for revolute joints) or extension/contraction rate (for prismatic joints) of each joint in the robot's arm. The End-Effector is the part of the robot that interacts with the environment, like the gripper on a robotic arm. The End-Effector Movement describes the linear and angular velocities (or positions) of the end-effector, specifying how fast and in what direction it's moving (or located).
 
-<p align="center">
-  ### The Jacobian Matrix Solution of Cylindrical Manipulator
+### <p align="center">The Jacobian Matrix Solution of Cylindrical Manipulator
 </p>
 
 # IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
