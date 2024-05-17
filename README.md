@@ -22,6 +22,7 @@
   <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/36e50eaf-0e4f-4411-aff1-62b5eb374bd0" width="400"/)
 </p>
 
+### To get the Jacobian Matrix of Cylindrical Manipulator, we used this formula: 
 <p align="center">
  <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/2ff0132f-f014-4cb6-bea1-2f7dc5ee55bd" width="500"/) 
 </p> 
