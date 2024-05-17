@@ -31,6 +31,20 @@
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/0cd95c8f-9b52-4511-bcf9-76198418c038" width="500"/)
 </p> 
 
+### Methods in Obtaining the Jacobian Matrix
+### 1. Partial Derivative Method
+### 2. Propagation Method
+### 3. Linear Algebra Method
+
+## <p align="center">Linear Algebra Method
+<p/> 
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/3f7085c2-eacd-4384-97eb-e3b274beec74" width="400"/)
+<p/> 
+
+
+
 
 
 
