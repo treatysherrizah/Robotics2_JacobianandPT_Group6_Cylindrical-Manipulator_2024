@@ -99,10 +99,10 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/fe5e7441-85c2-4b04-82c8-1b10c5be94f1" width="600"/)
 <p/>
 
-**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: ]**
+**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/lyQcluBddaA?si=4sN9YXWXRbtFq6er]**
 ![White Dark Blue Futuristic Robot Desktop Wallpaper (3)](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/7d0970b8-0ba3-405a-b2df-0f74e79e5364)
 
-**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: ]**
+**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/lrrvxVXqIKg?si=GuWHThwdXtmSTgWt]**
 ![White Dark Blue Futuristic Robot Desktop Wallpaper (4)](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/e0de73eb-b71f-450a-9ec8-f0298dddc368)
 
 
