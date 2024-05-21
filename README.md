@@ -70,12 +70,12 @@
 
 
 <p align="center">
-<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/d124c2f7-1b44-4c38-b9eb-8186b3f235d6" width="200"/)
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/d124c2f7-1b44-4c38-b9eb-8186b3f235d6" width="700"/)
 <p/>
 
 
 <p align="center">
-<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/884c0f0c-6381-4c67-a9bf-37d2e3a1db86" width="200"/)
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/884c0f0c-6381-4c67-a9bf-37d2e3a1db86" width="700"/)
 <p/>
 
 # VI. REFERENCES
