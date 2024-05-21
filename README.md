@@ -68,6 +68,8 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 <p/>
 
 **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Y6dr2NqUIXM?si=l0zDvYq6_9vzK8Gn]**
+![White Dark Blue Futuristic Robot Desktop Wallpaper](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/116de9bf-5939-44e6-abd0-653dcf188b0b)
+
 
 ## V. PATH AND TRAJECTORY PLANNING
 ### Path and trajectory planning will be used for improving the efficiency, accuracy, and coordination of motion of the cylindrical manipulator to perform tasks effectivey.
