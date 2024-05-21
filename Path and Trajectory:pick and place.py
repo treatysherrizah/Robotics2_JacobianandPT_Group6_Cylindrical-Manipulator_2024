@@ -11,7 +11,7 @@ a3 = float(20)
 
 
 
-# limit of variable q1
+# limit of variable 
 def deg_to_rad(T):
     return (T/180)*np.pi
 
