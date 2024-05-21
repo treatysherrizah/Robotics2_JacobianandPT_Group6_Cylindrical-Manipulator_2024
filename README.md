@@ -59,13 +59,12 @@
 <p/>
 
 
-
-
-
-
-
-
 # IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
+<p align="center">
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/eb3f3860-1be8-4152-8837-f93587502f40" width="400"/)
+<p/>
+
+
 # V. PATH AND TRAJECTORY PLANNING CYLINDRICAL MANIPULATOR 
 # VI. REFERENCES
 ### 1. Gasparetto, A., Boscariol, P., Lanzutti, A., & Vidoni, R. (2015). Path Planning and Trajectory Planning Algorithms: A General Overview. In Mechanisms and machine science (pp. 3–27). https://doi.org/10.1007/978-3-319-14705-5_1
