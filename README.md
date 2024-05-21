@@ -59,6 +59,8 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 <p/>
 
 **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/VQpwlS1OyQI?si=rU9y5EIOCil4TZjz]**
+![White Dark Blue Futuristic Robot Desktop Wallpaper](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/7be894b3-2ec2-471b-8e0f-fb06005ec5bd)
+
 
 ## IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
 <p align="center">
