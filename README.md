@@ -70,13 +70,13 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Gbovmxfx6m0?si=nQL912VM1id0Oh1X]**
 ![White Dark Blue Futuristic Robot Desktop Wallpaper](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/116de9bf-5939-44e6-abd0-653dcf188b0b)
 
+## V. DETERMINANT OF SINGULARITY
+![6f899967-0942-4de1-9e83-f381181ca9ba](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/2acdfe72-7125-4f9b-a9c7-1b3666e0fd4f)
 
 **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Y6dr2NqUIXM?si=l0zDvYq6_9vzK8Gn]**
 ![White Dark Blue Futuristic Robot Desktop Wallpaper (2)](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/4dbb11f5-e376-43f9-bf40-b46077a7a80f)
 
-
-
-## V. PATH AND TRAJECTORY PLANNING
+## VI. PATH AND TRAJECTORY PLANNING
 ### Path and trajectory planning will be used for improving the efficiency, accuracy, and coordination of motion of the cylindrical manipulator to perform tasks effectivey.
 
 
@@ -99,7 +99,7 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/fe5e7441-85c2-4b04-82c8-1b10c5be94f1" width="600"/)
 <p/>
  
-## VI. REFERENCES
+## VII. REFERENCES
 1. Gasparetto, A., Boscariol, P., Lanzutti, A., & Vidoni, R. (2015). Path Planning and Trajectory Planning Algorithms: A General Overview. In Mechanisms and machine science (pp. 3–27). https://doi.org/10.1007/978-3-319-14705-5_1
 2. 2. Ten popular industrial robot Applications | Jabil. (n.d.). Jabil.com. https://www.jabil.com/blog/ten-popular-industrial-robot-applications.html
 3. How to use Jacobian Method for path following? (n.d.). Robotics Stack Exchange. https://robotics.stackexchange.com/questions/22190/how-to-use-jacobian-method-for-path-following
