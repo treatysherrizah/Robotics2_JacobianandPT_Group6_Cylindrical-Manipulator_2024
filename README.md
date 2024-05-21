@@ -58,7 +58,7 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/bccc6ef8-03e0-41ff-9d51-843cf578fb88" width="400"/)
 <p/>
 
-## SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/VQpwlS1OyQI?si=rU9y5EIOCil4TZjz]
+**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/VQpwlS1OyQI?si=rU9y5EIOCil4TZjz**
 
 ## IV. DIFFERENTIAL EQUATION OF CYLINDRICAL MANIPULATOR 
 <p align="center">
