@@ -65,7 +65,7 @@
 <p/>
 
 
-# V. PATH AND TRAJECTORY PLANNING CYLINDRICAL MANIPULATOR 
+# V. PATH AND TRAJECTORY PLANNING
 ## Path and trajectory planning will be used for improving the efficiency, accuracy, and coordination of motion of the cylindrical manipulator to perform tasks effectivey.
 
 
@@ -78,6 +78,16 @@
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/884c0f0c-6381-4c67-a9bf-37d2e3a1db86" width="700"/)
 <p/>
 
+## Path and Trajectory Planning of Cylindrical Manipulator: Welding and Pick & Place
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/1d21cd37-da64-4152-9948-6a8f9bfba63e" width="600"/)
+<p/>
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/fe5e7441-85c2-4b04-82c8-1b10c5be94f1" width="600"/)
+<p/>
+ 
 # VI. REFERENCES
 ### 1. Gasparetto, A., Boscariol, P., Lanzutti, A., & Vidoni, R. (2015). Path Planning and Trajectory Planning Algorithms: A General Overview. In Mechanisms and machine science (pp. 3–27). https://doi.org/10.1007/978-3-319-14705-5_1
 ### 2. Ten popular industrial robot Applications | Jabil. (n.d.). Jabil.com. https://www.jabil.com/blog/ten-popular-industrial-robot-applications.html
