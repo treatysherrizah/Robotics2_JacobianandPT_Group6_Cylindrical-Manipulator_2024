@@ -48,6 +48,12 @@
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/a4262505-febf-43c6-bf56-ac4c3a70342d" width="400"/)
 <p/>
 
+## Jacobian Matrix of Cylindrical Manipulator
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/321f60ed-e712-4fa4-9337-1922a6a5ddd6" width="400"/)
+<p/>
+
 
 
 
