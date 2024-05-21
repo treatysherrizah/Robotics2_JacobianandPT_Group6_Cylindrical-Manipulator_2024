@@ -67,8 +67,12 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 <img src="https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157602175/eb3f3860-1be8-4152-8837-f93587502f40" width="400"/)
 <p/>
 
-**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Y6dr2NqUIXM?si=l0zDvYq6_9vzK8Gn]**
+**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Gbovmxfx6m0?si=nQL912VM1id0Oh1X]**
 ![White Dark Blue Futuristic Robot Desktop Wallpaper](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/116de9bf-5939-44e6-abd0-653dcf188b0b)
+
+
+**SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Y6dr2NqUIXM?si=l0zDvYq6_9vzK8Gn]**
+
 
 
 ## V. PATH AND TRAJECTORY PLANNING
