@@ -72,6 +72,7 @@ The Jacobian matrix is a mathematical tool used in various fields, but in roboti
 
 
 **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://youtu.be/Y6dr2NqUIXM?si=l0zDvYq6_9vzK8Gn]**
+![White Dark Blue Futuristic Robot Desktop Wallpaper (2)](https://github.com/treatysherrizah/Robotics2_JacobianandPT_Group6_Cylindrical-Manipulator_2024/assets/157670284/4dbb11f5-e376-43f9-bf40-b46077a7a80f)
 
 
 
